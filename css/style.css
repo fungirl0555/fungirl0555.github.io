@@ -1,0 +1,17 @@
+[class*="span"] {
+    margin-left: 10px;
+}
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper { width: 960px; margin: 0 auto; }
+.article { margin-top: 150px; }
+.article h1 { text-align: center; color: #9d0b32; text-decoration: underline; padding: 5px 0;}
+.article p { text-align: center; color: #f89910; padding: 10px 0; font-size: 30px ;}
+.article a { padding: 5px 35px; font-size: 20px;}
+.submit-button { margin-top: 50px; text-align: center; font-size: 50px }
